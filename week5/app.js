@@ -7,4 +7,4 @@ function greet(name){
 console.log(greet("Yoel Kelev"));
 
 console.log(
-    `Your Answer is ${maths.divide(125000, 500)}`);
+    `Your Answer is ${maths.multiply(2, 7)}`);
